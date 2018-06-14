@@ -2,7 +2,7 @@
 #include <catch.hpp>
 #include <sstream>
 
-#include "RBtree.hpp"
+#include "rb_tree.hpp"
 
 TEST_CASE("experiment_1")
 {
